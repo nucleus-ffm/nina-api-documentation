@@ -1,1 +1,187 @@
 
+Aichach-Friedberg
+Alb-Donau-Kreis
+Altötting
+Amberg
+Amberg-Sulzbach
+Ansbach
+Aschaffenburg
+Augsburg
+Bad Kissingen
+Bad Tölz-Wolfratshausen
+Baden-Baden
+Bamberg
+Bayreuth
+Berchtesgadener Land
+Biberach
+Bielefeld
+Bochum
+Bodenseekreis
+Bonn
+Borken
+Bottrop
+Breisgau-Hochschwarzwald
+Böblingen
+Calw
+Cham
+Coburg
+Coesfeld
+Dachau
+Darmstadt
+Deggendorf
+Delmenhorst
+Dillingen a.d. Donau
+Dingolfing-Landau
+Donau-Ries
+Dortmund
+Duisburg
+Düren
+Düsseldorf
+Ebersberg
+Eichstätt
+Emmendingen
+Ennepe-Ruhr-Kreis
+Enzkreis
+Erding
+Erlangen
+Erlangen-Höchstadt
+Erzgebirgskreis
+Essen
+Esslingen
+Euskirchen
+Forchheim
+Freiburg im Breisgau
+Freising
+Freudenstadt
+Freyung-Grafenau
+Fürstenfeldbruck
+Fürth
+Garmisch-Partenkirchen
+Gelsenkirchen
+Göppingen
+Günzburg
+Gütersloh
+Hagen
+Hamm
+Harburg
+Harz
+Haßberge
+Heidelberg
+Heidenheim
+Heilbronn
+Heinsberg
+Herford
+Herne
+Hochsauerlandkreis
+Hof
+Hohenlohekreis
+Höxter
+Ingolstadt
+Karlsruhe
+Kaufbeuren
+Kelheim
+Kempten (Allgäu)
+Kitzingen
+Kleve
+Konstanz
+Krefeld
+Kronach
+Kulmbach
+Köln
+Landsberg am Lech
+Landshut
+Leverkusen
+Lichtenfels
+Lindau (Bodensee)
+Lippe
+Ludwigsburg
+Lörrach
+Main-Spessart
+Main-Tauber-Kreis
+Mannheim
+Memmingen
+Mettmann
+Miesbach
+Miltenberg
+Minden-Lübbecke
+Märkischer Kreis
+Mönchengladbach
+Mühldorf a. Inn
+Mülheim an der Ruhr
+München
+Münster
+Neckar-Odenwald-Kreis
+Neu-Ulm
+Neuburg-Schrobenhausen
+Neumarkt i.d. OPf.
+Neustadt a.d. Aisch-Bad Windsheim
+Neustadt a.d. Waldnaab
+Nürnberg
+Nürnberger Land
+Oberallgäu
+Oberbergischer Kreis
+Oberhausen
+Oldenburg
+Olpe
+Ortenaukreis
+Ostalbkreis
+Ostallgäu
+Paderborn
+Passau
+Pfaffenhofen a.d. Ilm
+Pforzheim
+Rastatt
+Ravensburg
+Recklinghausen
+Regen
+Regensburg
+Rems-Murr-Kreis
+Remscheid
+Reutlingen
+Rhein-Erft-Kreis
+Rhein-Kreis Neuss
+Rhein-Neckar-Kreis
+Rhein-Sieg-Kreis
+Rheinisch-Bergischer Kreis
+Rhön-Grabfeld
+Rosenheim
+Roth
+Rottal-Inn
+Rottweil
+Schleswig-Flensburg
+Schwabach
+Schwandorf
+Schwarzwald-Baar-Kreis
+Schweinfurt
+Schwäbisch Hall
+Siegen-Wittgenstein
+Sigmaringen
+Soest
+Solingen
+Starnberg
+Steinfurt
+Straubing
+Straubing-Bogen
+Stuttgart
+Städteregion Aachen
+Tirschenreuth
+Traunstein
+Tuttlingen
+Tübingen
+Ulm
+Unna
+Unterallgäu
+Viersen
+Vorpommern-Greifswald
+Vorpommern-Rügen
+Waldshut
+Warendorf
+Weiden i.d. OPf.
+Weilheim-Schongau
+Weißenburg-Gunzenhausen
+Wesel
+Wittmund
+Wunsiedel i. Fichtelgebirge
+Wuppertal
+Würzburg
+Zollernalbkreis
