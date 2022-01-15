@@ -37,6 +37,7 @@ Duisburg
 Düren
 Düsseldorf
 Ebersberg
+Eichsfeld
 Eichstätt
 Emmendingen
 Ennepe-Ruhr-Kreis
@@ -57,6 +58,7 @@ Fürstenfeldbruck
 Fürth
 Garmisch-Partenkirchen
 Gelsenkirchen
+Gifhorn
 Göppingen
 Günzburg
 Gütersloh
