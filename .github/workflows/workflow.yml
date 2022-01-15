@@ -1,8 +1,8 @@
-name: py
+name: updateListOfPlaces
 
 on: 
   schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+    - cron: "0 14 * * *"  # runs at 14:00 UTC everyday
   # workflow_dispatch
   
 
@@ -33,7 +33,7 @@ jobs:
           if [-z "$(git status --porcelain)"]; then
              echo "::set-output name=push::false"
           else
-             git commit -m "Add changes" -a
+             git commit -m "Add new places" -a
              echo "::set-output name=push::true"
           fi
         shell: bash
