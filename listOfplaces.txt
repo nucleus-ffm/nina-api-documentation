@@ -117,6 +117,7 @@ Neuburg-Schrobenhausen
 Neumarkt i.d. OPf.
 Neustadt a.d. Aisch-Bad Windsheim
 Neustadt a.d. Waldnaab
+Nordfriesland
 Nürnberg
 Nürnberger Land
 Oberallgäu
@@ -139,6 +140,7 @@ Regen
 Regensburg
 Rems-Murr-Kreis
 Remscheid
+Rendsburg-Eckernförde
 Reutlingen
 Rhein-Erft-Kreis
 Rhein-Kreis Neuss
@@ -147,9 +149,11 @@ Rhein-Sieg-Kreis
 Rheinisch-Bergischer Kreis
 Rhön-Grabfeld
 Rosenheim
+Rostock
 Roth
 Rottal-Inn
 Rottweil
+Schaumburg
 Schleswig-Flensburg
 Schwabach
 Schwandorf
@@ -160,6 +164,7 @@ Siegen-Wittgenstein
 Sigmaringen
 Soest
 Solingen
+Stade
 Starnberg
 Steinfurt
 Straubing
