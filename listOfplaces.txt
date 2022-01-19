@@ -31,6 +31,7 @@ Deggendorf
 Delmenhorst
 Dillingen a.d. Donau
 Dingolfing-Landau
+Dithmarschen
 Donau-Ries
 Dortmund
 Duisburg
@@ -49,6 +50,7 @@ Erzgebirgskreis
 Essen
 Esslingen
 Euskirchen
+Flensburg
 Forchheim
 Freiburg im Breisgau
 Freising
@@ -59,6 +61,8 @@ Fürth
 Garmisch-Partenkirchen
 Gelsenkirchen
 Gifhorn
+Goslar
+Gotha
 Göppingen
 Günzburg
 Gütersloh
@@ -73,6 +77,7 @@ Heilbronn
 Heinsberg
 Herford
 Herne
+Herzogtum Lauenburg
 Hochsauerlandkreis
 Hof
 Hohenlohekreis
@@ -82,6 +87,7 @@ Karlsruhe
 Kaufbeuren
 Kelheim
 Kempten (Allgäu)
+Kiel
 Kitzingen
 Kleve
 Konstanz
@@ -91,15 +97,19 @@ Kulmbach
 Köln
 Landsberg am Lech
 Landshut
+Leer
 Leverkusen
 Lichtenfels
 Lindau (Bodensee)
 Lippe
 Ludwigsburg
+Ludwigslust-Parchim
 Lörrach
+Lübeck
 Main-Spessart
 Main-Tauber-Kreis
 Mannheim
+Mecklenburgische Seenplatte
 Memmingen
 Mettmann
 Miesbach
@@ -115,9 +125,11 @@ Neckar-Odenwald-Kreis
 Neu-Ulm
 Neuburg-Schrobenhausen
 Neumarkt i.d. OPf.
+Neumünster
 Neustadt a.d. Aisch-Bad Windsheim
 Neustadt a.d. Waldnaab
 Nordfriesland
+Nordwestmecklenburg
 Nürnberg
 Nürnberger Land
 Oberallgäu
@@ -133,6 +145,8 @@ Paderborn
 Passau
 Pfaffenhofen a.d. Ilm
 Pforzheim
+Pinneberg
+Plön
 Rastatt
 Ravensburg
 Recklinghausen
@@ -146,6 +160,7 @@ Rhein-Erft-Kreis
 Rhein-Kreis Neuss
 Rhein-Neckar-Kreis
 Rhein-Sieg-Kreis
+Rheingau-Taunus-Kreis
 Rheinisch-Bergischer Kreis
 Rhön-Grabfeld
 Rosenheim
@@ -159,14 +174,18 @@ Schwabach
 Schwandorf
 Schwarzwald-Baar-Kreis
 Schweinfurt
+Schwerin
 Schwäbisch Hall
+Segeberg
 Siegen-Wittgenstein
 Sigmaringen
 Soest
 Solingen
 Stade
 Starnberg
+Steinburg
 Steinfurt
+Stormarn
 Straubing
 Straubing-Bogen
 Stuttgart
