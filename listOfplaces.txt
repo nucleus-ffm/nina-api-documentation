@@ -25,6 +25,7 @@ Calw
 Cham
 Coburg
 Coesfeld
+Cuxhaven
 Dachau
 Darmstadt
 Deggendorf
@@ -56,6 +57,7 @@ Freiburg im Breisgau
 Freising
 Freudenstadt
 Freyung-Grafenau
+Friesland
 Fürstenfeldbruck
 Fürth
 Garmisch-Partenkirchen
@@ -78,6 +80,7 @@ Heinsberg
 Herford
 Herne
 Herzogtum Lauenburg
+Hildesheim
 Hochsauerlandkreis
 Hof
 Hohenlohekreis
@@ -128,6 +131,7 @@ Neumarkt i.d. OPf.
 Neumünster
 Neustadt a.d. Aisch-Bad Windsheim
 Neustadt a.d. Waldnaab
+Nienburg (Weser)
 Nordfriesland
 Nordwestmecklenburg
 Nürnberg
@@ -168,6 +172,7 @@ Rostock
 Roth
 Rottal-Inn
 Rottweil
+Salzgitter
 Schaumburg
 Schleswig-Flensburg
 Schwabach
@@ -212,3 +217,4 @@ Wunsiedel i. Fichtelgebirge
 Wuppertal
 Würzburg
 Zollernalbkreis
+Zwickau
