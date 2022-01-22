@@ -70,6 +70,7 @@ Görlitz
 Günzburg
 Gütersloh
 Hagen
+Hamburg
 Hamm
 Harburg
 Harz
@@ -83,6 +84,7 @@ Herne
 Herzogtum Lauenburg
 Hildesheim
 Hochsauerlandkreis
+Hochtaunuskreis
 Hof
 Hohenlohekreis
 Höxter
