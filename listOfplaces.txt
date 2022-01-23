@@ -1,8 +1,10 @@
 Aichach-Friedberg
 Alb-Donau-Kreis
+Altmarkkreis Salzwedel
 Altötting
 Amberg
 Amberg-Sulzbach
+Anhalt-Bitterfeld
 Ansbach
 Aschaffenburg
 Augsburg
@@ -20,7 +22,9 @@ Bonn
 Borken
 Bottrop
 Breisgau-Hochschwarzwald
+Burgenlandkreis
 Böblingen
+Börde
 Calw
 Cham
 Coburg
@@ -30,6 +34,7 @@ Dachau
 Darmstadt
 Deggendorf
 Delmenhorst
+Dessau-Roßlau
 Dillingen a.d. Donau
 Dingolfing-Landau
 Dithmarschen
@@ -70,6 +75,7 @@ Görlitz
 Günzburg
 Gütersloh
 Hagen
+Halle (Saale)
 Hamburg
 Hamm
 Harburg
@@ -89,6 +95,7 @@ Hof
 Hohenlohekreis
 Höxter
 Ingolstadt
+Jerichower Land
 Karlsruhe
 Kaufbeuren
 Kelheim
@@ -112,6 +119,7 @@ Ludwigsburg
 Ludwigslust-Parchim
 Lörrach
 Lübeck
+Magdeburg
 Main-Spessart
 Main-Tauber-Kreis
 Mannheim
@@ -176,7 +184,9 @@ Rostock
 Roth
 Rottal-Inn
 Rottweil
+Saalekreis
 Salzgitter
+Salzlandkreis
 Schaumburg
 Schleswig-Flensburg
 Schwabach
@@ -194,6 +204,7 @@ Stade
 Starnberg
 Steinburg
 Steinfurt
+Stendal
 Stormarn
 Straubing
 Straubing-Bogen
@@ -216,6 +227,7 @@ Weiden i.d. OPf.
 Weilheim-Schongau
 Weißenburg-Gunzenhausen
 Wesel
+Wittenberg
 Wittmund
 Wolfenbüttel
 Wunsiedel i. Fichtelgebirge
