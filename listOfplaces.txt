@@ -4,10 +4,12 @@ Altmarkkreis Salzwedel
 Altötting
 Amberg
 Amberg-Sulzbach
+Ammerland
 Anhalt-Bitterfeld
 Ansbach
 Aschaffenburg
 Augsburg
+Aurich
 Bad Kissingen
 Bad Tölz-Wolfratshausen
 Baden-Baden
@@ -21,13 +23,17 @@ Bodenseekreis
 Bonn
 Borken
 Bottrop
+Braunschweig
 Breisgau-Hochschwarzwald
 Bremen
+Bremerhaven
 Burgenlandkreis
 Böblingen
 Börde
 Calw
+Celle
 Cham
+Cloppenburg
 Coburg
 Coesfeld
 Cuxhaven
@@ -36,6 +42,7 @@ Darmstadt
 Deggendorf
 Delmenhorst
 Dessau-Roßlau
+Diepholz
 Dillingen a.d. Donau
 Dingolfing-Landau
 Dithmarschen
@@ -47,7 +54,9 @@ Düsseldorf
 Ebersberg
 Eichsfeld
 Eichstätt
+Emden
 Emmendingen
+Emsland
 Ennepe-Ruhr-Kreis
 Enzkreis
 Erding
@@ -71,21 +80,26 @@ Gelsenkirchen
 Gifhorn
 Goslar
 Gotha
+Grafschaft Bentheim
 Göppingen
 Görlitz
+Göttingen
 Günzburg
 Gütersloh
 Hagen
 Halle (Saale)
 Hamburg
+Hameln-Pyrmont
 Hamm
 Harburg
 Harz
 Haßberge
+Heidekreis
 Heidelberg
 Heidenheim
 Heilbronn
 Heinsberg
+Helmstedt
 Herford
 Herne
 Herzogtum Lauenburg
@@ -94,6 +108,7 @@ Hochsauerlandkreis
 Hochtaunuskreis
 Hof
 Hohenlohekreis
+Holzminden
 Höxter
 Ingolstadt
 Jerichower Land
@@ -120,6 +135,8 @@ Ludwigsburg
 Ludwigslust-Parchim
 Lörrach
 Lübeck
+Lüchow-Dannenberg
+Lüneburg
 Magdeburg
 Main-Spessart
 Main-Tauber-Kreis
@@ -131,6 +148,7 @@ Mettmann
 Miesbach
 Miltenberg
 Minden-Lübbecke
+Mittelsachsen
 Märkischer Kreis
 Mönchengladbach
 Mühldorf a. Inn
@@ -147,19 +165,25 @@ Neustadt a.d. Waldnaab
 Nienburg (Weser)
 Nordfriesland
 Nordwestmecklenburg
+Northeim
 Nürnberg
 Nürnberger Land
 Oberallgäu
 Oberbergischer Kreis
 Oberhausen
 Oldenburg
+Oldenburg (Oldb)
 Olpe
 Ortenaukreis
+Osnabrück
 Ostalbkreis
 Ostallgäu
+Osterholz
+Osterode am Harz
 Ostholstein
 Paderborn
 Passau
+Peine
 Pfaffenhofen a.d. Ilm
 Pforzheim
 Pinneberg
@@ -169,6 +193,7 @@ Ravensburg
 Recklinghausen
 Regen
 Regensburg
+Region Hannover
 Rems-Murr-Kreis
 Remscheid
 Rendsburg-Eckernförde
@@ -182,6 +207,7 @@ Rheinisch-Bergischer Kreis
 Rhön-Grabfeld
 Rosenheim
 Rostock
+Rotenburg (Wümme)
 Roth
 Rottal-Inn
 Rottweil
@@ -215,9 +241,12 @@ Tirschenreuth
 Traunstein
 Tuttlingen
 Tübingen
+Uelzen
 Ulm
 Unna
 Unterallgäu
+Vechta
+Verden
 Viersen
 Vogtlandkreis
 Vorpommern-Greifswald
@@ -228,9 +257,12 @@ Weiden i.d. OPf.
 Weilheim-Schongau
 Weißenburg-Gunzenhausen
 Wesel
+Wesermarsch
+Wilhelmshaven
 Wittenberg
 Wittmund
 Wolfenbüttel
+Wolfsburg
 Wunsiedel i. Fichtelgebirge
 Wuppertal
 Würzburg
