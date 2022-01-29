@@ -114,6 +114,7 @@ Höxter
 Ingolstadt
 Jerichower Land
 Karlsruhe
+Kassel
 Kaufbeuren
 Kelheim
 Kempten (Allgäu)
@@ -172,6 +173,7 @@ Nürnberger Land
 Oberallgäu
 Oberbergischer Kreis
 Oberhausen
+Oberhavel
 Oldenburg
 Oldenburg (Oldb)
 Olpe
@@ -189,6 +191,7 @@ Pfaffenhofen a.d. Ilm
 Pforzheim
 Pinneberg
 Plön
+Prignitz
 Rastatt
 Ravensburg
 Recklinghausen
@@ -213,6 +216,7 @@ Roth
 Rottal-Inn
 Rottweil
 Saalekreis
+Saalfeld-Rudolstadt
 Salzgitter
 Salzlandkreis
 Schaumburg
