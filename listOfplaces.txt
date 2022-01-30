@@ -2,6 +2,7 @@ Aichach-Friedberg
 Alb-Donau-Kreis
 Altmarkkreis Salzwedel
 Altötting
+Alzey-Worms
 Amberg
 Amberg-Sulzbach
 Ammerland
@@ -14,8 +15,10 @@ Bad Kissingen
 Bad Tölz-Wolfratshausen
 Baden-Baden
 Bamberg
+Barnim
 Bayreuth
 Berchtesgadener Land
+Bergstraße
 Biberach
 Bielefeld
 Bochum
@@ -23,6 +26,7 @@ Bodenseekreis
 Bonn
 Borken
 Bottrop
+Brandenburg an der Havel
 Braunschweig
 Breisgau-Hochschwarzwald
 Bremen
@@ -36,8 +40,10 @@ Cham
 Cloppenburg
 Coburg
 Coesfeld
+Cottbus
 Cuxhaven
 Dachau
+Dahme-Spreewald
 Darmstadt
 Deggendorf
 Delmenhorst
@@ -55,6 +61,7 @@ Ebersberg
 Eichsfeld
 Eichstätt
 Eifelkreis Bitburg-Prüm
+Elbe-Elster
 Emden
 Emmendingen
 Emsland
@@ -69,6 +76,7 @@ Esslingen
 Euskirchen
 Flensburg
 Forchheim
+Frankfurt (Oder)
 Freiburg im Breisgau
 Freising
 Freudenstadt
@@ -94,6 +102,7 @@ Hameln-Pyrmont
 Hamm
 Harburg
 Harz
+Havelland
 Haßberge
 Heidekreis
 Heidelberg
@@ -151,6 +160,7 @@ Miesbach
 Miltenberg
 Minden-Lübbecke
 Mittelsachsen
+Märkisch-Oderland
 Märkischer Kreis
 Mönchengladbach
 Mühldorf a. Inn
@@ -174,6 +184,8 @@ Oberallgäu
 Oberbergischer Kreis
 Oberhausen
 Oberhavel
+Oberspreewald-Lausitz
+Oder-Spree
 Oldenburg
 Oldenburg (Oldb)
 Olpe
@@ -184,6 +196,7 @@ Ostallgäu
 Osterholz
 Osterode am Harz
 Ostholstein
+Ostprignitz-Ruppin
 Paderborn
 Passau
 Peine
@@ -191,6 +204,8 @@ Pfaffenhofen a.d. Ilm
 Pforzheim
 Pinneberg
 Plön
+Potsdam
+Potsdam-Mittelmark
 Prignitz
 Rastatt
 Ravensburg
@@ -232,6 +247,7 @@ Siegen-Wittgenstein
 Sigmaringen
 Soest
 Solingen
+Spree-Neiße
 Stade
 Starnberg
 Steinburg
@@ -242,10 +258,12 @@ Straubing
 Straubing-Bogen
 Stuttgart
 Städteregion Aachen
+Teltow-Fläming
 Tirschenreuth
 Traunstein
 Tuttlingen
 Tübingen
+Uckermark
 Uelzen
 Ulm
 Unna
@@ -268,6 +286,7 @@ Wittenberg
 Wittmund
 Wolfenbüttel
 Wolfsburg
+Worms
 Wunsiedel i. Fichtelgebirge
 Wuppertal
 Würzburg
