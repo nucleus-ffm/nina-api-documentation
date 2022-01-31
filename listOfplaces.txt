@@ -82,6 +82,7 @@ Freising
 Freudenstadt
 Freyung-Grafenau
 Friesland
+Fulda
 Fürstenfeldbruck
 Fürth
 Garmisch-Partenkirchen
@@ -271,6 +272,7 @@ Unterallgäu
 Vechta
 Verden
 Viersen
+Vogelsbergkreis
 Vogtlandkreis
 Vorpommern-Greifswald
 Vorpommern-Rügen
