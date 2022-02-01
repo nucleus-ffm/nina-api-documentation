@@ -135,6 +135,7 @@ Konstanz
 Krefeld
 Kronach
 Kulmbach
+Kyffhäuserkreis
 Köln
 Landsberg am Lech
 Landshut
@@ -278,6 +279,7 @@ Vorpommern-Greifswald
 Vorpommern-Rügen
 Waldshut
 Warendorf
+Wartburgkreis
 Weiden i.d. OPf.
 Weilheim-Schongau
 Weißenburg-Gunzenhausen
