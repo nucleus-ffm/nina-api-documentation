@@ -39,6 +39,7 @@ Celle
 Cham
 Cloppenburg
 Coburg
+Cochem-Zell
 Coesfeld
 Cottbus
 Cuxhaven
@@ -68,6 +69,7 @@ Emsland
 Ennepe-Ruhr-Kreis
 Enzkreis
 Erding
+Erfurt
 Erlangen
 Erlangen-Höchstadt
 Erzgebirgskreis
@@ -159,6 +161,7 @@ Mannheim
 Mansfeld-Südharz
 Mecklenburgische Seenplatte
 Memmingen
+Merzig-Wadern
 Mettmann
 Miesbach
 Miltenberg
@@ -176,6 +179,7 @@ Neu-Ulm
 Neuburg-Schrobenhausen
 Neumarkt i.d. OPf.
 Neumünster
+Neunkirchen
 Neustadt a.d. Aisch-Bad Windsheim
 Neustadt a.d. Waldnaab
 Nienburg (Weser)
@@ -217,6 +221,7 @@ Recklinghausen
 Regen
 Regensburg
 Region Hannover
+Regionalverband Saarbrücken
 Rems-Murr-Kreis
 Remscheid
 Rendsburg-Eckernförde
@@ -237,6 +242,8 @@ Rottal-Inn
 Rottweil
 Saalekreis
 Saalfeld-Rudolstadt
+Saarlouis
+Saarpfalz-Kreis
 Salzgitter
 Salzlandkreis
 Schaumburg
@@ -253,6 +260,7 @@ Sigmaringen
 Soest
 Solingen
 Spree-Neiße
+St. Wendel
 Stade
 Starnberg
 Steinburg
