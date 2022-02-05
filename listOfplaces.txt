@@ -1,5 +1,7 @@
+Ahrweiler
 Aichach-Friedberg
 Alb-Donau-Kreis
+Altenkirchen (Westerwald)
 Altmarkkreis Salzwedel
 Altötting
 Alzey-Worms
@@ -11,7 +13,9 @@ Ansbach
 Aschaffenburg
 Augsburg
 Aurich
+Bad Dürkheim
 Bad Kissingen
+Bad Kreuznach
 Bad Tölz-Wolfratshausen
 Baden-Baden
 Bamberg
@@ -19,8 +23,10 @@ Barnim
 Bayreuth
 Berchtesgadener Land
 Bergstraße
+Bernkastel-Wittlich
 Biberach
 Bielefeld
+Birkenfeld
 Bochum
 Bodenseekreis
 Bonn
@@ -46,6 +52,7 @@ Cuxhaven
 Dachau
 Dahme-Spreewald
 Darmstadt
+Darmstadt-Dieburg
 Deggendorf
 Delmenhorst
 Dessau-Roßlau
@@ -54,6 +61,7 @@ Dillingen a.d. Donau
 Dingolfing-Landau
 Dithmarschen
 Donau-Ries
+Donnersbergkreis
 Dortmund
 Duisburg
 Düren
@@ -78,6 +86,7 @@ Esslingen
 Euskirchen
 Flensburg
 Forchheim
+Frankenthal (Pfalz)
 Frankfurt (Oder)
 Frankfurt am Main
 Freiburg im Breisgau
@@ -90,6 +99,8 @@ Fürstenfeldbruck
 Fürth
 Garmisch-Partenkirchen
 Gelsenkirchen
+Germersheim
+Gießen
 Gifhorn
 Goslar
 Gotha
@@ -117,6 +128,7 @@ Heinsberg
 Helmstedt
 Herford
 Herne
+Hersfeld-Rotenburg
 Herzogtum Lauenburg
 Hildesheim
 Hochsauerlandkreis
@@ -127,6 +139,7 @@ Holzminden
 Höxter
 Ingolstadt
 Jerichower Land
+Kaiserslautern
 Karlsruhe
 Kassel
 Kaufbeuren
@@ -135,30 +148,42 @@ Kempten (Allgäu)
 Kiel
 Kitzingen
 Kleve
+Koblenz
 Konstanz
 Krefeld
 Kronach
 Kulmbach
+Kusel
 Kyffhäuserkreis
 Köln
+Lahn-Dill-Kreis
+Landau in der Pfalz
 Landsberg am Lech
 Landshut
 Leer
 Leverkusen
 Lichtenfels
+Limburg-Weilburg
 Lindau (Bodensee)
 Lippe
 Ludwigsburg
+Ludwigshafen am Rhein
 Ludwigslust-Parchim
 Lörrach
 Lübeck
 Lüchow-Dannenberg
 Lüneburg
 Magdeburg
+Main-Kinzig-Kreis
 Main-Spessart
 Main-Tauber-Kreis
+Main-Taunus-Kreis
+Mainz
+Mainz-Bingen
 Mannheim
 Mansfeld-Südharz
+Marburg-Biedenkopf
+Mayen-Koblenz
 Mecklenburgische Seenplatte
 Memmingen
 Merzig-Wadern
@@ -182,6 +207,8 @@ Neumünster
 Neunkirchen
 Neustadt a.d. Aisch-Bad Windsheim
 Neustadt a.d. Waldnaab
+Neustadt an der Weinstraße
+Neuwied
 Nienburg (Weser)
 Nordfriesland
 Nordwestmecklenburg
@@ -193,7 +220,10 @@ Oberbergischer Kreis
 Oberhausen
 Oberhavel
 Oberspreewald-Lausitz
+Odenwaldkreis
 Oder-Spree
+Offenbach
+Offenbach am Main
 Oldenburg
 Oldenburg (Oldb)
 Olpe
@@ -211,6 +241,7 @@ Peine
 Pfaffenhofen a.d. Ilm
 Pforzheim
 Pinneberg
+Pirmasens
 Plön
 Potsdam
 Potsdam-Mittelmark
@@ -229,7 +260,9 @@ Reutlingen
 Rhein-Erft-Kreis
 Rhein-Hunsrück-Kreis
 Rhein-Kreis Neuss
+Rhein-Lahn-Kreis
 Rhein-Neckar-Kreis
+Rhein-Pfalz-Kreis
 Rhein-Sieg-Kreis
 Rheingau-Taunus-Kreis
 Rheinisch-Bergischer Kreis
@@ -249,6 +282,7 @@ Salzlandkreis
 Schaumburg
 Schleswig-Flensburg
 Schwabach
+Schwalm-Eder-Kreis
 Schwandorf
 Schwarzwald-Baar-Kreis
 Schweinfurt
@@ -259,6 +293,7 @@ Siegen-Wittgenstein
 Sigmaringen
 Soest
 Solingen
+Speyer
 Spree-Neiße
 St. Wendel
 Stade
@@ -271,9 +306,13 @@ Straubing
 Straubing-Bogen
 Stuttgart
 Städteregion Aachen
+Südliche Weinstraße
+Südwestpfalz
 Teltow-Fläming
 Tirschenreuth
 Traunstein
+Trier
+Trier-Saarburg
 Tuttlingen
 Tübingen
 Uckermark
@@ -289,14 +328,21 @@ Vogelsbergkreis
 Vogtlandkreis
 Vorpommern-Greifswald
 Vorpommern-Rügen
+Vulkaneifel
+Waldeck-Frankenberg
 Waldshut
 Warendorf
 Wartburgkreis
 Weiden i.d. OPf.
 Weilheim-Schongau
+Weimarer Land
 Weißenburg-Gunzenhausen
+Werra-Meißner-Kreis
 Wesel
 Wesermarsch
+Westerwaldkreis
+Wetteraukreis
+Wiesbaden
 Wilhelmshaven
 Wittenberg
 Wittmund
@@ -307,4 +353,5 @@ Wunsiedel i. Fichtelgebirge
 Wuppertal
 Würzburg
 Zollernalbkreis
+Zweibrücken
 Zwickau
