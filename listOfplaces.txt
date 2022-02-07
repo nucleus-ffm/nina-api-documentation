@@ -130,6 +130,7 @@ Herford
 Herne
 Hersfeld-Rotenburg
 Herzogtum Lauenburg
+Hildburghausen
 Hildesheim
 Hochsauerlandkreis
 Hochtaunuskreis
@@ -137,6 +138,7 @@ Hof
 Hohenlohekreis
 Holzminden
 Höxter
+Ilm-Kreis
 Ingolstadt
 Jerichower Land
 Kaiserslautern
@@ -293,6 +295,7 @@ Siegen-Wittgenstein
 Sigmaringen
 Soest
 Solingen
+Sonneberg
 Speyer
 Spree-Neiße
 St. Wendel
@@ -306,6 +309,7 @@ Straubing
 Straubing-Bogen
 Stuttgart
 Städteregion Aachen
+Suhl
 Südliche Weinstraße
 Südwestpfalz
 Teltow-Fläming
