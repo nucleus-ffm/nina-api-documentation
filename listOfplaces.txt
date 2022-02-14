@@ -1,6 +1,7 @@
 Ahrweiler
 Aichach-Friedberg
 Alb-Donau-Kreis
+Altenburger Land
 Altenkirchen (Westerwald)
 Altmarkkreis Salzwedel
 Altötting
@@ -70,6 +71,7 @@ Ebersberg
 Eichsfeld
 Eichstätt
 Eifelkreis Bitburg-Prüm
+Eisenach
 Elbe-Elster
 Emden
 Emmendingen
@@ -99,12 +101,14 @@ Fürstenfeldbruck
 Fürth
 Garmisch-Partenkirchen
 Gelsenkirchen
+Gera
 Germersheim
 Gießen
 Gifhorn
 Goslar
 Gotha
 Grafschaft Bentheim
+Greiz
 Groß-Gerau
 Göppingen
 Görlitz
@@ -140,6 +144,7 @@ Holzminden
 Höxter
 Ilm-Kreis
 Ingolstadt
+Jena
 Jerichower Land
 Kaiserslautern
 Karlsruhe
@@ -213,6 +218,7 @@ Neustadt an der Weinstraße
 Neuwied
 Nienburg (Weser)
 Nordfriesland
+Nordhausen
 Nordwestmecklenburg
 Northeim
 Nürnberg
@@ -275,6 +281,8 @@ Rotenburg (Wümme)
 Roth
 Rottal-Inn
 Rottweil
+Saale-Holzland-Kreis
+Saale-Orla-Kreis
 Saalekreis
 Saalfeld-Rudolstadt
 Saarlouis
@@ -283,6 +291,7 @@ Salzgitter
 Salzlandkreis
 Schaumburg
 Schleswig-Flensburg
+Schmalkalden-Meiningen
 Schwabach
 Schwalm-Eder-Kreis
 Schwandorf
@@ -310,6 +319,7 @@ Straubing-Bogen
 Stuttgart
 Städteregion Aachen
 Suhl
+Sömmerda
 Südliche Weinstraße
 Südwestpfalz
 Teltow-Fläming
@@ -339,6 +349,7 @@ Warendorf
 Wartburgkreis
 Weiden i.d. OPf.
 Weilheim-Schongau
+Weimar
 Weimarer Land
 Weißenburg-Gunzenhausen
 Werra-Meißner-Kreis
