@@ -21,9 +21,11 @@ Bad Tölz-Wolfratshausen
 Baden-Baden
 Bamberg
 Barnim
+Bautzen
 Bayreuth
 Berchtesgadener Land
 Bergstraße
+Berlin
 Bernkastel-Wittlich
 Biberach
 Bielefeld
@@ -44,6 +46,7 @@ Börde
 Calw
 Celle
 Cham
+Chemnitz
 Cloppenburg
 Coburg
 Cochem-Zell
@@ -64,6 +67,7 @@ Dithmarschen
 Donau-Ries
 Donnersbergkreis
 Dortmund
+Dresden
 Duisburg
 Düren
 Düsseldorf
@@ -168,6 +172,7 @@ Landau in der Pfalz
 Landsberg am Lech
 Landshut
 Leer
+Leipzig
 Leverkusen
 Lichtenfels
 Limburg-Weilburg
@@ -192,6 +197,7 @@ Mansfeld-Südharz
 Marburg-Biedenkopf
 Mayen-Koblenz
 Mecklenburgische Seenplatte
+Meißen
 Memmingen
 Merzig-Wadern
 Mettmann
@@ -219,6 +225,7 @@ Neuwied
 Nienburg (Weser)
 Nordfriesland
 Nordhausen
+Nordsachsen
 Nordwestmecklenburg
 Northeim
 Nürnberg
