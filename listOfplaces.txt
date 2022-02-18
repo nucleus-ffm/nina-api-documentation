@@ -103,6 +103,7 @@ Friesland
 Fulda
 Fürstenfeldbruck
 Fürth
+GEOCODE
 Garmisch-Partenkirchen
 Gelsenkirchen
 Gera
